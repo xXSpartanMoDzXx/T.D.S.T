@@ -10,3 +10,7 @@ development begins
 this team has been created for publishing and development purposes everything that can be improved by other people to
 keep up the day
 IF YOU WANT TO ADD SOME SCRIPT TO BUILD A NEW BRANCH
+
+colaboradores/collaborators
+-->
+--> Lestat / viewer
