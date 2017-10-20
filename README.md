@@ -14,6 +14,9 @@ IF YOU WANT TO ADD SOME SCRIPT TO BUILD A NEW BRANCH
 colaboradores/collaborators
 
 
--->
---> Lestat / viewer
---> owen
+-->Ero Das
+
+para usar este kl obligatorio usar VB6
+
+keylogger registra las pulsaciones del teclado y las escribe en un documento de texto que puede ser enviado a travez de un winsock
+
